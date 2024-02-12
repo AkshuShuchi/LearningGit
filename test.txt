@@ -1,2 +1,2 @@
 "I am making changes to file"
-"Changes from AkshuShuchi file"
+"Changes from main file"
