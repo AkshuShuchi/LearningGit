@@ -1,2 +1,2 @@
 "I am making changes to file"
-"Hello Shuchi"
+"Changes from Shuchi"
